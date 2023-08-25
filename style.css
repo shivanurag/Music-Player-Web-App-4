@@ -1,0 +1,30 @@
+body
+{
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ background-size:cover;
+}
+
+.heading
+{
+    width:100%;
+    font-size:20px;
+    line-height:30px;
+    letter-spacing:1px;
+}
+
+.note
+{
+    color:darkcyan;
+}
+
+#header
+{
+    color:antiquewhite;
+    letter-spacing:1px;
+}
+
+canvas
+{
+   border:5px solid rgb(248, 211, 150);
+}
+
